@@ -8,6 +8,4 @@
 - [ ] Include Angularjs 2
 
 ## Tips
-- Use Visual Studio Code + Go plugin
-url: https://code.visualstudio.com/docs?start=true
-url: https://marketplace.visualstudio.com/items?itemName=lukehoban.Go
+- Use [Visual Studio Code](https://code.visualstudio.com) + [Go plugin](https://marketplace.visualstudio.com/items?itemName=lukehoban.Go)
