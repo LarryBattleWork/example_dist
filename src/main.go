@@ -1,6 +1,9 @@
-// Purpose: Publish and instantly consume a test message sent to rabbit mq.
+// Purpose: Publish and instantly consume a message sent to RabbitMq queue.
+
+// Requires RabbitMq 3.x and Golang 1.7.x to be installed.
 // go get -u "github.com/streadway/amqp"
 // go run main.go
+
 package main
 
 import (
